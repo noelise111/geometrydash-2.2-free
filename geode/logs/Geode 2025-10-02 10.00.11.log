@@ -1,0 +1,21 @@
+10:00:11 INFO  [Main] [Geode]: Running Geode v4.9.0 in Geometry Dash v2.2074 on Windows
+10:00:11 INFO  [Main] [Geode]: Setting up internal mod
+10:00:11 INFO  [Main] [Geode]: Setting up loader
+10:00:11 INFO  [Main] [Geode]:   Loading launch arguments
+10:00:11 INFO  [Main] [Geode]:   Setting up crash handler
+10:00:11 INFO  [Main] [Geode]:   Loading hooks
+10:00:11 INFO  [Main] [Geode]:   Setting up directories
+10:00:11 INFO  [Main] [Geode]:   Refreshing mod graph
+10:00:11 INFO  [Main] [Geode]:     Queueing mods
+10:00:11 INFO  [Main] [Geode]:     Populating mod list
+10:00:11 INFO  [Main] [Geode]:     Building mod graph
+10:00:11 INFO  [Main] [Geode]:     Ordering mod stack
+10:00:11 INFO  [Main] [Geode]:     Loading early mods
+10:00:11 INFO  [Main] [Geode]: Starting loader update check
+10:00:11 INFO  [Main] [Geode]: Entry took 0.023s
+10:00:12 INFO  [Main] [Geode]: Loading non-early mods
+10:00:12 INFO  [Main] [Geode]:   Finding problems
+10:00:12 INFO  [Main] [Geode]: Latest Geode version is v4.9.0
+10:00:13 INFO  [Main] [Geode]: All mods up to date!
+10:00:16 INFO  [Main] [Geode]: Saving mod data...
+10:00:16 INFO  [Main] [Geode]:   Took 0.001s

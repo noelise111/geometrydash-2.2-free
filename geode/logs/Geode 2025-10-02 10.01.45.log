@@ -1,0 +1,24 @@
+10:01:45 INFO  [Main] [Geode]: Running Geode v4.9.0 in Geometry Dash v2.2074 on Windows
+10:01:45 INFO  [Main] [Geode]: Setting up internal mod
+10:01:45 INFO  [Main] [Geode]: Setting up loader
+10:01:45 INFO  [Main] [Geode]:   Loading launch arguments
+10:01:45 INFO  [Main] [Geode]:   Setting up crash handler
+10:01:45 INFO  [Main] [Geode]:   Loading hooks
+10:01:45 INFO  [Main] [Geode]:   Setting up directories
+10:01:45 INFO  [Main] [Geode]:   Refreshing mod graph
+10:01:45 INFO  [Main] [Geode]:     Queueing mods
+10:01:45 INFO  [Main] [Geode]:     Populating mod list
+10:01:45 INFO  [Main] [Geode]:     Building mod graph
+10:01:45 INFO  [Main] [Geode]:     Ordering mod stack
+10:01:45 INFO  [Main] [Geode]:     Loading early mods
+10:01:45 INFO  [Main] [Geode]:       Loading mod prevter.openhack v2.3.2
+10:01:45 ERROR [Main] [Geode]:       This mod was created for a different version of Geometry Dash (2.204). You currently have version 2.2074.
+10:01:45 INFO  [Main] [Geode]: Starting loader update check
+10:01:45 INFO  [Main] [Geode]: Entry took 0.013s
+10:01:45 INFO  [Main] [Geode]: Loading non-early mods
+10:01:45 INFO  [Main] [Geode]:   Finding problems
+10:01:45 WARN  [Main] [Geode]:     prevter.openhack is outdated
+10:01:45 INFO  [Main] [Geode]: Latest Geode version is v4.9.0
+10:01:47 INFO  [Main] [Geode]: Found updates for mods: ["prevter.openhack"]!
+10:02:01 INFO  [Main] [Geode]: Saving mod data...
+10:02:01 INFO  [Main] [Geode]:   Took 0.002s

@@ -1,0 +1,28 @@
+12:18:09 INFO  [Main] [Geode]: Running Geode v4.9.0 in Geometry Dash v2.2074 on Windows
+12:18:09 INFO  [Main] [Geode]: Setting up internal mod
+12:18:09 INFO  [Main] [Geode]: Setting up loader
+12:18:09 INFO  [Main] [Geode]:   Loading launch arguments
+12:18:09 INFO  [Main] [Geode]:   Setting up crash handler
+12:18:09 INFO  [Main] [Geode]:   Loading hooks
+12:18:09 INFO  [Main] [Geode]:   Setting up directories
+12:18:09 INFO  [Main] [Geode]:   Refreshing mod graph
+12:18:09 INFO  [Main] [Geode]:     Queueing mods
+12:18:09 INFO  [Main] [Geode]:     Populating mod list
+12:18:09 INFO  [Main] [Geode]:     Building mod graph
+12:18:09 INFO  [Main] [Geode]:     Ordering mod stack
+12:18:09 INFO  [Main] [Geode]:     Loading early mods
+12:18:09 INFO  [Main] [Geode]:       Loading mod eclipse.eclipse-menu v1.4.0
+12:18:09 WARN  [Main] [Geode]:         CustomButton contains unknown key "default"
+12:18:09 WARN  [Main] [Eclipse]:       Failed to set cocos2d::CCScheduler::update hook priority!
+12:18:09 INFO  [Main] [Eclipse]:       TPS Bypass: Patch enabled at offset 0x232294
+12:18:09 INFO  [Main] [Eclipse]:       Initializing Discord RPC
+12:18:09 INFO  [Main] [Eclipse]:       Added bitmap fonts to search path: C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\config\eclipse.eclipse-menu\bmfonts
+12:18:09 INFO  [Main] [Geode]: Starting loader update check
+12:18:09 INFO  [Main] [Geode]: Entry took 0.053s
+12:18:11 INFO  [Main] [Geode]: Loading non-early mods
+12:18:11 INFO  [Main] [Geode]:   Loading mod geode.node-ids v1.21.1
+12:18:11 INFO  [Main] [Geode]: Latest Geode version is v4.9.0
+12:18:11 INFO  [Main] [Geode]:   Finding problems
+12:18:11 INFO  [Main] [Geode]:       eclipse.eclipse-menu suggests eclipse.ffmpeg-api >=v1.2.0
+12:18:11 INFO  [Main] [Geode]:       eclipse.eclipse-menu suggests dankmeme.globed2 >=v1.8.5
+12:18:13 INFO  [Main] [Geode]: All mods up to date!

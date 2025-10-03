@@ -1,0 +1,32 @@
+10:02:01 INFO  [Main] [Geode]: Running Geode v4.9.0 in Geometry Dash v2.2074 on Windows
+10:02:01 INFO  [Main] [Geode]: Setting up internal mod
+10:02:01 INFO  [Main] [Geode]: Setting up loader
+10:02:01 INFO  [Main] [Geode]:   Loading launch arguments
+10:02:01 INFO  [Main] [Geode]:   Setting up crash handler
+10:02:01 INFO  [Main] [Geode]:   Loading hooks
+10:02:01 INFO  [Main] [Geode]:   Setting up directories
+10:02:01 INFO  [Main] [Geode]:   Refreshing mod graph
+10:02:01 INFO  [Main] [Geode]:     Queueing mods
+10:02:01 INFO  [Main] [Geode]:     Populating mod list
+10:02:01 INFO  [Main] [Geode]:     Building mod graph
+10:02:01 INFO  [Main] [Geode]:     Ordering mod stack
+10:02:01 INFO  [Main] [Geode]:     Loading early mods
+10:02:01 INFO  [Main] [Geode]:       Loading mod eclipse.eclipse-menu v1.4.0
+10:02:01 WARN  [Main] [Geode]:         CustomButton contains unknown key "default"
+10:02:01 WARN  [Main] [Eclipse]:       Failed to open config file, creating a new one.
+10:02:01 WARN  [Main] [Eclipse]:       Failed to set cocos2d::CCScheduler::update hook priority!
+10:02:01 INFO  [Main] [Eclipse]:       Removing outdated languages...
+10:02:01 INFO  [Main] [Eclipse]:       TPS Bypass: Patch enabled at offset 0x232294
+10:02:01 INFO  [Main] [Eclipse]:       Initializing Discord RPC
+10:02:01 INFO  [Main] [Eclipse]:       Added bitmap fonts to search path: C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\config\eclipse.eclipse-menu\bmfonts
+10:02:02 INFO  [Main] [Geode]: Starting loader update check
+10:02:02 INFO  [Main] [Geode]: Entry took 0.374s
+10:02:04 INFO  [Main] [Geode]: Loading non-early mods
+10:02:04 INFO  [Main] [Geode]:   Loading mod geode.node-ids v1.21.1
+10:02:04 INFO  [Main] [Geode]: Latest Geode version is v4.9.0
+10:02:04 INFO  [Main] [Geode]:   Finding problems
+10:02:04 INFO  [Main] [Geode]:       eclipse.eclipse-menu suggests eclipse.ffmpeg-api >=v1.2.0
+10:02:04 INFO  [Main] [Geode]:       eclipse.eclipse-menu suggests dankmeme.globed2 >=v1.8.5
+10:02:06 INFO  [Main] [Geode]: All mods up to date!
+10:05:49 INFO  [Main] [Geode]: Saving mod data...
+10:05:49 INFO  [Main] [Geode]:   Took 0.002s
